@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Selectores de etiqueta*/
+
+body{
+    background-image: URL(https://images.hdqwalls.com/download/green-blue-violet-gradient-8k-xv-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: 12000px;
+    background-position: -4000px;
+    margin: 50px 100px;
+}
+h1{
+    font-family: 'Nerko One', cursive;
+    font-size: 40px;
+    color: #000080;
+    background-color: white;
+    text-align:center;
+}
+h2{
+    font-family: 'Nerko One', cursive;
+    font-size: 30px;
+    color: 	#87CEFA;
+    text-align: justify;
+    padding: 5px;
+}
+p{
+    font-family: 'Xanh Mono', monospace;
+    font-size: 16px;
+    color: white;
+    text-align: justify;
+    padding: 10px;
+}
+a{
+    color: 	#87CEFA;
+}
+/*selector de clases*/
+
+.fotos{
+    width: 300px;
+    height: 200px;
+}
+/*selector de identificacion*/
+#head{
+    width: 100%;
+}
+.img{
+    width: 200px;
+    height: 100px;
+}
+ol{
+    font-family: 'Nerko One', cursive;
+    font-size: 30px;
+    color: 	#87CEFA;
+    text-align: justify;
+    padding: 5px;
+}
+ul{
+    font-family: 'Nerko One', cursive;
+    font-size: 30px;
+    color: 	#87CEFA;
+    text-align: justify;
+    padding: 5px;
+}
